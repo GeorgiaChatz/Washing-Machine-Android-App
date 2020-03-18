@@ -11,5 +11,5 @@ the design of the application is based on the three developmental cycles of the 
 
 The video of my interface in **youtube** is at the address below:
 
- * [Washing Machine](#https://www.youtube.com/watch?v=VykXfVYVasg)
+ * https://www.youtube.com/watch?v=VykXfVYVasg 
 
