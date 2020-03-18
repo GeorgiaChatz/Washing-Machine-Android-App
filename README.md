@@ -10,5 +10,6 @@ It features a Washing Machine App in order to provide a more subtle interface fo
 the design of the application is based on the three developmental cycles of the **_spiral model_**.
 
 The video of my interface in **youtube** is at the address below:
-[Washing Machine](#https://www.youtube.com/watch?v=VykXfVYVasg)
+
+ * [Washing Machine](#https://www.youtube.com/watch?v=VykXfVYVasg)
 
