@@ -1,7 +1,7 @@
 # Washing Machine Android App
 
 It is implementation of project in Human Computer Interaction course.
-Develop an improved user interface for a washine machine coded in **Android Studio**
+We develop an improved user interface for a washine machine coded in **Android Studio**
 
 
 ## Project Informations
